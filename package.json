@@ -1,8 +1,8 @@
 {
-  "name": "6_wizard_react",
+  "name": "i7_stepper_react_last",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eugenekalenik.github.io/i6_stepper_react/",
+  "homepage": "https://eugenekalenik.github.io/i7_stepper_react_last/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.1",
