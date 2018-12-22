@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/i7_stepper_react_last/precache-manifest.60b06775f6b4965a97712ba02cc77596.js"
+  "/i7_stepper_react/precache-manifest.f946a37244346dd2f350d9264052c78c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/i7_stepper_react_last/index.html", {
+workbox.routing.registerNavigationRoute("/i7_stepper_react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
