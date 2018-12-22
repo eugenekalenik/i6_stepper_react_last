@@ -17,6 +17,8 @@ const Models = ({ model, make, makes, onChangeModel }) => {
         )}
       </div>
     }
+
+    return null;
   })
 }
 
